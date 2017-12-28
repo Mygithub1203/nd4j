@@ -1,6 +1,6 @@
-branches:
-  only:
-    - master
+#branches:
+#  only:
+#    - master
 version: '{build}'
 image: Visual Studio 2015
 cache:
